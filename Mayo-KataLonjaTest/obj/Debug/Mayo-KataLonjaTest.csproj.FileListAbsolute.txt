@@ -1,9 +1,0 @@
-C:\git\12Meses12Katas\Mayo-KataLonja\Mayo-KataLonjaTest\bin\Debug\Mayo-KataLonjaTest.dll
-C:\git\12Meses12Katas\Mayo-KataLonja\Mayo-KataLonjaTest\bin\Debug\Mayo-KataLonjaTest.pdb
-C:\git\12Meses12Katas\Mayo-KataLonja\Mayo-KataLonjaTest\bin\Debug\nunit.framework.dll
-C:\git\12Meses12Katas\Mayo-KataLonja\Mayo-KataLonjaTest\bin\Debug\nunit.framework.xml
-C:\git\12Meses12Katas\Mayo-KataLonja\Mayo-KataLonjaTest\obj\Debug\ResolveAssemblyReference.cache
-C:\git\12Meses12Katas\Mayo-KataLonja\Mayo-KataLonjaTest\obj\Debug\Mayo-KataLonjaTest.dll
-C:\git\12Meses12Katas\Mayo-KataLonja\Mayo-KataLonjaTest\obj\Debug\Mayo-KataLonjaTest.pdb
-C:\git\12Meses12Katas\Mayo-KataLonja\Mayo-KataLonjaTest\bin\Debug\Mayo-KataLonja.dll
-C:\git\12Meses12Katas\Mayo-KataLonja\Mayo-KataLonjaTest\bin\Debug\Mayo-KataLonja.pdb
