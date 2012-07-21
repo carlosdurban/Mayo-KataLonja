@@ -15,8 +15,7 @@ namespace Mayo_KataLonja
             PuntosDeVenta = puntosDeVenta;
             Carga = carga;
         }
-           
-
+        
         public PuntoVenta ObtenerPuntoVentaConMayorBeneficio()
         {
             List<KeyValuePair<int, PuntoVenta>> PVentas = new  List<KeyValuePair<int, PuntoVenta>>();
