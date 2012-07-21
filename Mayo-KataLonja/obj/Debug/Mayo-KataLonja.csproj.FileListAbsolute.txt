@@ -1,5 +1,0 @@
-C:\git\12Meses12Katas\Mayo-KataLonja\Mayo-KataLonja\obj\Debug\ResolveAssemblyReference.cache
-C:\git\12Meses12Katas\Mayo-KataLonja\Mayo-KataLonja\bin\Debug\Mayo-KataLonja.dll
-C:\git\12Meses12Katas\Mayo-KataLonja\Mayo-KataLonja\bin\Debug\Mayo-KataLonja.pdb
-C:\git\12Meses12Katas\Mayo-KataLonja\Mayo-KataLonja\obj\Debug\Mayo-KataLonja.dll
-C:\git\12Meses12Katas\Mayo-KataLonja\Mayo-KataLonja\obj\Debug\Mayo-KataLonja.pdb
