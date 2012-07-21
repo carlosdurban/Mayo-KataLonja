@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CargaUtil.cs" />
+    <Compile Include="Class1.cs" />
     <Compile Include="GastosUtils.cs" />
     <Compile Include="Lonja.cs" />
     <Compile Include="TarifaProducto.cs" />
