@@ -48,13 +48,15 @@
     <Compile Include="GastosUtils.cs" />
     <Compile Include="LonjaTest.cs" />
     <Compile Include="PuntoVentaTest.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Mayo-KataLonja\Mayo-KataLonja.csproj">
       <Project>{B4615422-0E43-423A-B4E4-59DA6EBA87A7}</Project>
       <Name>Mayo-KataLonja</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Properties\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
