@@ -7,6 +7,7 @@ namespace Mayo_KataLonja
 {
     public class PuntoVenta
     {
+
         public string NombrePuntoVenta { get; private set; }
 
         public int Distancia { get; private set; }
