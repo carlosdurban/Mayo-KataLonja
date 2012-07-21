@@ -11,6 +11,7 @@ namespace Mayo_KataLonjaTest
     [TestFixture]
     public class CargaUtilTest
     {
+
         [Test]
         public void CargarFurgoneta()
         {
